@@ -1,1 +1,1 @@
-# leetcode_solved
+# Leetcode Solutions Repo
